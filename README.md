@@ -1,9 +1,10 @@
 ## Hello World, I'm João Pedro! 👋
 
-- I'm a Computer Science student at Universidade Federal da Bahia ([UFBA](https://bcc.ufba.br/))
-- Currently studying back-end development with Node.js.
+:mortar_board:  I'm a Computer Science student at Universidade Federal da Bahia ([UFBA](https://bcc.ufba.br/))
 
-<br><br/>
+:books: Currently studying back-end development with Node.js.
+
+
 
 ## :hammer_and_wrench:  Tech Stack
 
