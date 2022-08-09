@@ -4,7 +4,7 @@
 
 :books: Currently studying back-end development with Node.js.
 
-I'm a technology enthusiast with a strong desire to learn more and more. Despite focusing on web development studies and projects, I am also very interested in some other areas of programming such as data science.
+I'm a technology enthusiast with a strong desire to learn more and more. Despite focusing on web development studies and projects, I'm also very interested in some other areas of programming such as data science.
 
 ## :hammer_and_wrench:  Tech Stack
 
